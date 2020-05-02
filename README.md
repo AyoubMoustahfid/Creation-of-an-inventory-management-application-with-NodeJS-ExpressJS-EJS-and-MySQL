@@ -10,10 +10,10 @@ run server in visuel studio or terminal
 > Name table : fornisseurs
 > Name table : rayons
 
-#run server 
+# run server 
 > localhost:1000/product
 
-#Package File Node Module
+# Package File Node Module
 > ejs
 
 > express
