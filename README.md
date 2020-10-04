@@ -1,4 +1,4 @@
-# supermarket-inventory-management
+# Creation of an inventory management application with NodeJS, ExpressJS, EJS and MySQL
 run server in visuel studio or terminal
 > nodemon app.js
 
